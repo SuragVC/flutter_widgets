@@ -1,4 +1,4 @@
-import 'package:flutter_widgets/widgets/home_page.dart';
+import 'package:flutter_widgets/widgets/home/home_page.dart';
 import 'package:go_router/go_router.dart';
 
 get routes => _routes;
