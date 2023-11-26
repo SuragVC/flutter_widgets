@@ -7,4 +7,5 @@ class AppColors {
   static Color snowyMint = const Color.fromARGB(205, 254, 206, 0);
   static Color blueColor = Colors.blue;
   static Color transparent = Colors.transparent;
+  static Color black = Colors.black;
 }

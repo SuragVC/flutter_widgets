@@ -30,7 +30,7 @@ class _CustomListViewState extends State<CustomListView> {
     return ListView.separated(
       separatorBuilder: (context, index) {
         return Divider(
-          color: Colors.black,
+          color: AppColors.black,
         );
       },
       itemBuilder: (context, index) {
